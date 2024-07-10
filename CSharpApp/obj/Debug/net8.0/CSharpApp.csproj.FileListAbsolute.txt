@@ -28,3 +28,4 @@
 /Users/bwiss/Documents/All/Coding/OS X/CSharpApp/CSharpApp/obj/Debug/net8.0/CSharpApp.pdb
 /Users/bwiss/Documents/All/Coding/OS X/CSharpApp/CSharpApp/obj/Debug/net8.0/CSharpApp.genruntimeconfig.cache
 /Users/bwiss/Documents/All/Coding/OS X/CSharpApp/CSharpApp/obj/Debug/net8.0/ref/CSharpApp.dll
+/Users/bwiss/Documents/All/Coding/OS X/CSharpApp/CSharpApp/obj/Debug/net8.0/CSharpApp.sourcelink.json
